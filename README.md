@@ -19,4 +19,8 @@ python onedim_dmd.py
 
 Results for initial condition, x=0.5
 
-![Alt text](results.png)
+<img
+  src="results.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
