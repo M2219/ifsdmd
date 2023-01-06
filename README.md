@@ -19,4 +19,4 @@ python onedim_dmd.py
 
 Results for initial condition, x=0.5
 
-![alt text](results.png)
+![plot](results.png)
