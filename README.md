@@ -5,8 +5,7 @@
   <p align="center">
     Ramen Ghosh, Mahmoud Tahmasebi, Marion McAfee
   </p>
-  <h3 align="center"><a href="[https://arxiv.org/pdf/2402.16473.pdf](https://ieeexplore.ieee.org/document/10284085
-)">Paper</a>
+  <h3 align="center"><a href="https://ieeexplore.ieee.org/document/10284085">Paper</a>
   <div align="center"></div>
 </p>
 
